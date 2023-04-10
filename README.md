@@ -1,10 +1,13 @@
-# Mohammad Hussein
+# Mohammad Hussein 👋
 
 I'm a third-year computer science student. I've always been fascinated by the world of web development, and I'm currently working to improve my skills in the MERN stack.
 
 As a self-taught frontend developer, I've gained experience in HTML, CSS, and JavaScript, as well as various frontend technologies like React. I've also started to delve into the world of backend development, learning Node.js and Express to build RESTful APIs and integrate with databases like MongoDB.
 
 I'm excited to continue learning and growing as a developer, and I look forward to sharing my projects and progress with the community!
+
+---
+
 
 
 ## Skills and Experience
@@ -32,6 +35,10 @@ I'm excited to continue learning and growing as a developer, and I look forward 
 </div>
 
 ###
+
+## Portfolio
+
+**[Check Out My Portfolio](https://mhmdhussein377.github.io/Portfolio)**
 
 # Certifications: 
 
