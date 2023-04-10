@@ -38,14 +38,14 @@ I'm excited to continue learning and growing as a developer, and I look forward 
 
 ## Portfolio
 
-**[Check Out My Portfolio](https://mhmdhussein377.github.io/Portfolio){:target="_blank"}**
+**[Check Out My Portfolio](https://mhmdhussein377.github.io/Portfolio)**
 
 # Certifications: 
 
-[<img src="https://github.com/mhmdhussein377/mhmdhussein377/blob/main/Frontend-Certificate.jpeg" alt="image-description" style="width:500px;"/>](https://scrimba.com/certificate/uNby3at5/gfrontend){:target="_blank"}
+[<img src="https://github.com/mhmdhussein377/mhmdhussein377/blob/main/Frontend-Certificate.jpeg" alt="image-description" style="width:500px;"/>](https://scrimba.com/certificate/uNby3at5/gfrontend)
 
 [Scrima Frontend Certificate](https://scrimba.com/certificate/uNby3at5/gfrontend)
 
 [<img src="https://github.com/mhmdhussein377/mhmdhussein377/blob/main/Responsive-Design-Certificate.jpeg" alt="image-description" style="width:500px;"/>](https://scrimba.com/certificate/uNby3at5/gresponsive)
 
-[Scrima Responsive Design Certificate](https://scrimba.com/certificate/uNby3at5/gresponsive){:target="_blank"}
+[Scrima Responsive Design Certificate](https://scrimba.com/certificate/uNby3at5/gresponsive)
