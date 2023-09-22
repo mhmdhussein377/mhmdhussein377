@@ -19,7 +19,7 @@ I'm excited to continue learning and growing as a developer, and I look forward 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Flaravel&psig=AOvVaw1QJtLS8X68cEQQ8uU98syN&ust=1695477769333000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiq6ImxvoEDFQAAAAAdAAAAABAD)" height="40" width="52" alt="Laravel logo"  />
+  ![laravel-9305885-7694084](https://github.com/mhmdhussein377/mhmdhussein377/assets/101940169/63d48b37-50cc-43d0-8269-a94f91844feb)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
