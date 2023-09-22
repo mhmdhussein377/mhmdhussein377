@@ -1,4 +1,13 @@
-# Mohammad Hussein 👋
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    # Mohammad Hussein 👋</a>
+</p>
+
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Web+Developer)](https://git.io/typing-svg)
+</p>
 
 I'm a third-year computer science student. I've always been fascinated by the world of web development, and I'm currently working to improve my skills in the MERN stack.
 
@@ -19,7 +28,6 @@ I'm excited to continue learning and growing as a developer, and I look forward 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  ![laravel-9305885-7694084](https://github.com/mhmdhussein377/mhmdhussein377/assets/101940169/63d48b37-50cc-43d0-8269-a94f91844feb)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
