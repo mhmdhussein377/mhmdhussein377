@@ -35,10 +35,6 @@ I'm excited to continue learning and growing as a developer, and I look forward 
 
 ###
 
-## Portfolio
-
-**[Check Out My Portfolio](https://mhmdhussein377.github.io/Portfolio)**
-
 # Certifications: 
 
 [<img src="https://github.com/mhmdhussein377/mhmdhussein377/blob/main/Frontend-Certificate.jpeg" alt="image-description" style="width:500px;"/>](https://scrimba.com/certificate/uNby3at5/gfrontend)
