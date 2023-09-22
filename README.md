@@ -4,11 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+web+developer;Programming+is+a+mindset" alt="Typing SVG" /></a>
 </p>
 
-I'm a third-year computer science student. I've always been fascinated by the world of web development, and I'm currently working to improve my skills in the MERN stack.
-
-As a self-taught frontend developer, I've gained experience in HTML, CSS, and JavaScript, as well as various frontend technologies like React. I've also started to delve into the world of backend development, learning Node.js and Express to build RESTful APIs and integrate with databases like MongoDB.
-
-I'm excited to continue learning and growing as a developer, and I look forward to sharing my projects and progress with the community!
+Fresh out of the computer science oven, this graduate is ready to implement some tech magic and make our lives smoother than a well-coded algorithm
 
 ---
 
@@ -49,8 +45,8 @@ I'm excited to continue learning and growing as a developer, and I look forward 
 
 [<img src="https://github.com/mhmdhussein377/mhmdhussein377/blob/main/Frontend-Certificate.jpeg" alt="image-description" style="width:500px;"/>](https://scrimba.com/certificate/uNby3at5/gfrontend)
 
-[Scrima Frontend Certificate](https://scrimba.com/certificate/uNby3at5/gfrontend)
+[Scrimba Frontend Certificate](https://scrimba.com/certificate/uNby3at5/gfrontend)
 
 [<img src="https://github.com/mhmdhussein377/mhmdhussein377/blob/main/Responsive-Design-Certificate.jpeg" alt="image-description" style="width:500px;"/>](https://scrimba.com/certificate/uNby3at5/gresponsive)
 
-[Scrima Responsive Design Certificate](https://scrimba.com/certificate/uNby3at5/gresponsive)
+[Scrimba Responsive Design Certificate](https://scrimba.com/certificate/uNby3at5/gresponsive)
