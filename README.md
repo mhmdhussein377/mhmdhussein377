@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+web+developer;Programming+is+a+mindset" alt="Typing SVG" /></a>
 </p>
 
-Fresh out of the computer science oven, this graduate is ready to implement some tech magic and make our lives smoother than a well-coded algorithm
+Hardworking and passionate developer, love building projects ranging from frontend all the way to backend
 
 ---
 
